@@ -24,6 +24,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
  
 ## Program
+```
 Name: S Kamesh Kumar
 Reg no: 212225220046
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs):"))
@@ -52,7 +53,7 @@ else:
   print("---------------------------------------------------------------")
 ## Output :
 <img width="666" height="293" alt="image" src="https://github.com/user-attachments/assets/3f404690-201b-4f35-b69e-f943d4e5cd2b" />
-
+```
 
 ## Result :
 Thus, the program has been executed successfully and the required parameters have been calculated as per thegivenconditions.
