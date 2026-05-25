@@ -55,6 +55,10 @@ else:
 <img width="666" height="293" alt="image" src="https://github.com/user-attachments/assets/3f404690-201b-4f35-b69e-f943d4e5cd2b" />
 ```
 
+# Output
+<img width="666" height="293" alt="image" src="https://github.com/user-attachments/assets/677b8bfb-1588-42f8-8285-aacad09fcaa5" />
+
+
 ## Result :
 Thus, the program has been executed successfully and the required parameters have been calculated as per thegivenconditions.
 
